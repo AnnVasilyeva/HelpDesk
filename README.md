@@ -1,2 +1,7 @@
 # HelpDesk
-прототип API для сервиса управления заявками на помощь+ frontend.
+
+Сервис управления заявками на помощь.
+
+[![Build status](https://ci.appveyor.com/api/projects/status/xt51qfaqcgmg2s67?svg=true)](https://ci.appveyor.com/project/AnnVasilyeva/helpdesk)
+
+[GitHub Pages]()
